@@ -44,7 +44,7 @@ gray_to_binary("00111011")  # "01110010"
 
 # Vektör için
 binary_to_gray(c("00", "01", "10", "11"))
-#  "00" "01" "11" "10" [stat.ethz](https://stat.ethz.ch/pipermail/r-package-devel/2024q1/010357.html)
+#  "00" "01" "11" "10"
 ```
 
 ## Kurulum / Installation
