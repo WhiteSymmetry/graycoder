@@ -3,7 +3,7 @@ Binary to Gray Code Conversion
 
 ---
 
-# graycoder <img src="man/figures/logo.png" alt="logo" align="right" height="140"/>
+# graycoder <img src="man/figures/logo.jpg" alt="logo" align="right" height="140"/>
 
 [![R-CMD-check](https://github.com/WhiteSymmetry/graycoder/workflows/R/badge.svg)](https://github.com/WhiteSymmetry/graycoder/actions)
 
