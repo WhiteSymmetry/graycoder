@@ -1,0 +1,37 @@
+Package: graycode
+Type: Package
+Title: Binary to Gray Code Conversion
+Version: 0.1.0
+Authors@R: person("Mehmet Keçeci", 
+                  email = "mkececi@yaani.com",
+                  role = c("aut", "cre"),
+                  comment = c(ORCID = "0000-0001-9937-9839"))
+Description: Provides a pure R implementation for converting 
+    binary strings to their corresponding Gray code representation.
+Encoding: UTF-8
+LazyData: true
+Author: person("Mehmet Keçeci", 
+                  email = "mkececi@yaani.com",
+                  role = c("aut", "cre"),
+                  comment = c(ORCID = "0000-0001-9937-9839"))
+Maintainer: Mehmet Keçeci <mkececi@yaani.com>
+URL: https://github.com/whitesymmetry/grikodr/
+BugReports: https://github.com/whitesymmetry/grikodr/issues/
+License: MIT + file LICENSE
+Depends: R (>= 3.1)
+RoxygenNote: 7.3.3
+Roxygen: list(markdown = TRUE)
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+Published: 2026-02-16
+NeedsCompilation: no
+Materials: README, NEWS
+CRAN checks: 
+Documentation:
+Reference manual: 
+Vignettes:
+Downloads:
+Package source: graycode_0.1.0.tar.gz
+Config/testthat/edition: 3
