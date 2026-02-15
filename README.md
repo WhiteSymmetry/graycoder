@@ -3,13 +3,15 @@ Binary to Gray Code Conversion
 
 ---
 
-```markdown
 # graycoder <img src="man/figures/logo.png" alt="logo" align="right" height="140"/>
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/WhiteSymmetry/graycoder/workflows/R/badge.svg)](https://github.com/WhiteSymmetry/graycoder/actions)
-[![CRAN status](https://www.r-pkg.org/badges/version/graycoder)](https://CRAN.R-project.org/package=graycoder)
 <!-- badges: end -->
+
+---
+
+```markdown
 
 ## Amaç / Purpose
 
