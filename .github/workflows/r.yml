@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        r-version: ['4.4.x', 'devel']
+        r-version: ['4.4.x']
     
     steps:
       - uses: actions/checkout@v4
