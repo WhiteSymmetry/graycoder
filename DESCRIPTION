@@ -7,7 +7,6 @@ Authors@R:
            email = "mkececi@yaani.com",
            role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-9937-9839"))
-Maintainer: Mehmet Keçeci <mkececi@yaani.com>
 Description: Provides a pure R implementation for converting 
     binary strings to their corresponding Gray code representation.
 Encoding: UTF-8
