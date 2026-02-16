@@ -6,6 +6,8 @@ Binary to Gray Code Conversion
 # graycoder <img src="man/figures/logo.jpg" alt="logo" align="right" height="140"/>
 
 [![R-CMD-check](https://github.com/WhiteSymmetry/graycoder/workflows/R/badge.svg)](https://github.com/WhiteSymmetry/graycoder/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Lang:R](https://img.shields.io/badge/Lang-Python-blue?style=flat-square&logo=python)](https://cran.r-project.org/)
 
 
 ---
