@@ -7,7 +7,7 @@ Binary to Gray Code Conversion
 
 [![R-CMD-check](https://github.com/WhiteSymmetry/graycoder/workflows/R/badge.svg)](https://github.com/WhiteSymmetry/graycoder/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Lang:R](https://img.shields.io/badge/Lang-Python-blue?style=flat-square&logo=python)](https://cran.r-project.org/)
+[![Lang:R](https://img.shields.io/badge/Lang-R-blue?style=flat-square&logo=python)](https://cran.r-project.org/)
 
 
 ---
