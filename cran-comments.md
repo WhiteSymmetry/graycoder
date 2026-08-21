@@ -1,6 +1,6 @@
 ## Win-builder Results (R-devel, 2026-02-16)
 
-* using log directory 'd:/RCompile/CRANguest/R-devel/graycode.Rcheck'
+* using log directory '/RCompile/CRANguest/R-devel/graycode.Rcheck'
 * using R Under development (unstable) (2026-02-14 r89420 ucrt)
 * using platform: x86_64-w64-mingw32
 * R was compiled by
@@ -14,7 +14,7 @@
 * this is package 'graycode' version '0.1.0'
 * package encoding: UTF-8
 * checking CRAN incoming feasibility ... NOTE
-Maintainer: 'Mehmet Keçeci <mkececi@yaani.com>'
+Maintainer: 'Mehmet Keçeci <enfo@tuta.io>'
 
 New submission
 * checking package namespace information ... OK
